@@ -1,4 +1,5 @@
 .next
+.idea
 .vscode
 .package-lock.json
 package-lock.json
