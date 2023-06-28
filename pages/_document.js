@@ -24,6 +24,7 @@ export default class MyDocument extends Document {
           <style dangerouslySetInnerHTML={{ __html: this.props.css }} />
         </Head>
         <body>
+          <p>hi</p>
           <Main />
           <NextScript />
         </body>
